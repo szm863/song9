@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/health_parent/health_backend" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/health_parent/health_backend/src/main/resources/spring-redis.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/health_parent/health_backend/src/main/webapp/pages/ordersetting.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/health_parent/health_backend/src/main/webapp/pages/setmeal.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/health_parent/health_backend/src/main/webapp/pic/03a36073-a140-4942-9b9b-712cecb144901.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/health_parent/health_backend/src/main/webapp/template/ordersetting_template.xlsx" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/health_parent/health_jod" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/health_parent/health_mobile" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/health_parent/health_mobile/src/main/resources/log4j.properties" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/health_parent/health_mobile/src/main/resources/redis.properties" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/health_parent/health_mobile/src/main/resources/spring-redis.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/health_parent/health_mobile/src/main/resources/springmvc.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/health_parent/health_mobile/src/main/webapp/pages/setmeal.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/health_parent/health_mobile/src/main/webapp/pages/setmeal_detail.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/health_parent/health_mobile/src/main/webapp/plugins/img" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/health_parent/health_service_provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/health_parent/health_service_provider/src/main/resources/spring-redis.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springsecuritydemo" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
