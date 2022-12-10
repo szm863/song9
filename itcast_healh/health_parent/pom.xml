@@ -21,7 +21,7 @@
         <qiniu-java-sdk.version>7.2.6</qiniu-java-sdk.version>
         <javassist.version>3.12.1.GA</javassist.version>
         <junit.version>4.12</junit.version>
-        <spring.version>5.0.5.RELEASE</spring.version>
+        <spring.version>6.0.0</spring.version>
         <pagehelper.version>4.1.4</pagehelper.version>
         <servlet-api.version>2.5</servlet-api.version>
         <dubbo.version>2.6.0</dubbo.version>
